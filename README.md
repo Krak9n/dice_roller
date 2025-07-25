@@ -13,6 +13,7 @@ make install
 
 ### Installation with a script
 ```
+git clone https://github.com/Krak9n/dice_roller.git
 chmod +x install.sh
 ./install.sh
 ```

@@ -22,6 +22,6 @@ chmod +x install.sh
 ### Usage
 Just type in your terminal after Making
 ```
-throw_dice
+./throw_dice
 ```
 

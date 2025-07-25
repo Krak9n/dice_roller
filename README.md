@@ -1,6 +1,7 @@
 # Dice Roller
 
-A small dice roller for terminal. Does have all dices from DnD 5 except for d100.
+A small dice roller for terminal.
+Just insert the desired value and watch them go.
 
 ### Installation
 ```

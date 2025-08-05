@@ -26,4 +26,6 @@ Just type in your terminal after Making
 ```
 
 Or if you installed via script, just type <br />
-`throw_dice`
+```
+throw_dice
+```

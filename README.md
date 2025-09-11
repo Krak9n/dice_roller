@@ -7,16 +7,7 @@ Just insert the desired value and watch them go.
 ```
 git clone https://github.com/Krak9n/dice_roller.git
 cd dice_roller
-make
-make install
-```
-
-### Installation with a script
-```
-git clone https://github.com/Krak9n/dice_roller.git
-cd dice_roller
-chmod +x install.sh
-./install.sh
+chmod +x install.sh && ./install.sh
 ```
 
 ### Usage

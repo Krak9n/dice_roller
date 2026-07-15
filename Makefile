@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -O2 -g -std=gnu99
-TARGET = throw_dice
+TARGET = dice-roller
 
 all: $(TARGET)
 

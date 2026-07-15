@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -O2 -g -std=c99
+CFLAGS = -Wall -Wextra -O2 -g -std=gnu99
 TARGET = throw_dice
 
 all: $(TARGET)

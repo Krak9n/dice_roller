@@ -1,22 +1,10 @@
-# Dice Roller
-
-A small dice roller for terminal.
+Small dice roller for your terminal.
 Just insert the desired value and watch them go.
 
+If you want, here's the aur package: [https://aur.archlinux.org/packages/dice-roller](https://aur.archlinux.org/packages/dice-roller)
+
 ### Installation
-```
-git clone https://github.com/Krak9n/dice_roller.git
-cd dice_roller
-chmod +x install.sh && ./install.sh
-```
-
-### Usage
-Just type in your terminal after Making
-```
-./throw_dice
-```
-
-Or if you installed via script, just type <br />
-```
-throw_dice
+```bash
+# make install
+# mv throw_dice /usr/bin/
 ```

@@ -6,5 +6,5 @@ Arch package if you want: [aur.archlinux.org/packages/dice_roller](https://aur.a
 ### Installation
 ```bash
 # make 
-# mv throw_dice /usr/bin/
+# make install
 ```

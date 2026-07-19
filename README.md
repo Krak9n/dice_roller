@@ -1,10 +1,10 @@
 Small dice roller for your terminal.
 Just insert the desired value and watch them go.
 
-Arch package if you want: aur.archlinux.org/packages/dice_roller
+Arch package if you want: [aur.archlinux.org/packages/dice_roller](https://aur.archlinux.org/packages/dice_roller)
 
 ### Installation
 ```bash
-# make install
+# make 
 # mv throw_dice /usr/bin/
 ```
